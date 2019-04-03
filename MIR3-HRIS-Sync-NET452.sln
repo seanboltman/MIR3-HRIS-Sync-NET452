@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIR3-HRIS-Sync-NET452", "MIR3-HRIS-Sync-NET452\MIR3-HRIS-Sync-NET452.csproj", "{126ED10F-76A6-40AB-87F6-110651DE461B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126ED10F-76A6-40AB-87F6-110651DE461B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126ED10F-76A6-40AB-87F6-110651DE461B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126ED10F-76A6-40AB-87F6-110651DE461B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126ED10F-76A6-40AB-87F6-110651DE461B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B493B8-93A8-466A-84BD-1D5FF4A4A619}
+	EndGlobalSection
+EndGlobal
